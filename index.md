@@ -1,19 +1,3 @@
-<style>
-h1 {
-  font-size: 0.1rem;
-  color: var(--pst-color-background)
-}
-h1:hover {
-  cursor: unset;
-}
-a.headerlink {
-  color: var(--pst-color-background);
-}
-a.headerlink:hover {
-  cursor: unset;
-}
-</style>
-
 # Data management for computational biology
 
 <div class="px-4 py-5 my-5 text-center">
