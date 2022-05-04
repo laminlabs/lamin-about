@@ -1,18 +1,18 @@
----
-sidebar_position: 1
----
-
 # About
 
 ## Why
 
 We build the tools we wish we had.
 
-We want to make data & analysis management for computational biology a lot more pleasant, robust and effective.
+We want to make data & analysis management for computational biology a lot more pleasant, robust and effective.[^workspace]
 
-We think this will enable biology more generally -- also for wet labs.[^1]
+We think this will enable biology more generally -- also for wet labs.[^vision]
 
-[^1]: Our vision is an integrated learning platform for R&D, including a workspace for the dry lab. 😅
+[^workspace]:
+    There are numerous data & analytics platforms for the wet lab.
+    We focus on building a workspace for the dry lab.
+
+[^vision]: The vision is a learning platform for R&D that's integrated across wet ⇄ dry lab & human ⇄ artificial intelligence. 😅
 
 ## What
 
