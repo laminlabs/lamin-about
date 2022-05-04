@@ -3,5 +3,5 @@
 We're working on 3 open-source packages in private beta. If you'd like to test them, please reach out via LinkedIn!
 
 - [bionty](/bionty/): Manage biological entities.
-- [lamindb](/lamindb/): Manage files.
+- [lamindb](/lamindb/): Manage _files_.
 - [nbproject](/nbproject/): Manage Jupyter notebooks.
