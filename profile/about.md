@@ -11,7 +11,7 @@ We think this will enable biology more generally -- also for wet labs.[^vision]
 <!-- prettier-ignore -->
 [^workspace]: There are numerous data & analytics platforms for the wet lab.
     We focus on building a workspace for the dry lab.
-[^vision]: The vision is a learning platform for R&D that's integrated across wet ⇄ dry lab & human ⇄ artificial intelligence. 😅
+[^vision]: Towards learning platforms for R&D that are integrated across wet ⇄ dry lab & human ⇄ artificial intelligence... 😅
 
 ## What
 
