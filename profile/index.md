@@ -1,1 +1,1 @@
-# Data management for computational biology
+# Data & analysis management for computational biology
