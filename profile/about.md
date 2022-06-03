@@ -17,7 +17,7 @@ We think this will enable biology more generally -- also for wet labs.[^vision]
 
 Currently, we spend most of our time developing [open source tools](/products) in private beta.
 
-With a smaller fraction of time, we consult biotech companies on building their data & compute platforms.
+Also, we consult biotech companies on building their data & compute platforms.
 
 Eventually, we want to introduce a priced tier on top of open-source functionality.
 
