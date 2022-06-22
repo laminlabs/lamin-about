@@ -4,7 +4,7 @@
 
 We build the tools we wish we had.
 
-We want to make data & analysis management for computational biology a lot more pleasant, robust and effective.[^workspace]
+We want to make data & analysis management for computational biology a lot more pleasant, robust, and effective.[^workspace]
 
 We think this will enable biology more generally -- also for wet labs.[^vision]
 
