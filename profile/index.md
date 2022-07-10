@@ -6,7 +6,7 @@
 </h2>
 <div class="col-lg-7 mx-auto">
     <p class="lead">
-    For data scientists, data engineers, and entire R&D organizations.
+    For data scientists, data engineers, and R&D teams.
     </p>
 </div>
 <a class="login-button lead my-2" href="/login.html">Log in</a>
