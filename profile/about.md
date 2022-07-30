@@ -15,11 +15,12 @@ We think this will enable biology more generally -- also for wet labs.[^vision]
 
 ## What
 
-Currently, we spend most of our time developing [open source tools](/products) in private beta.
+Currently, we spend most of our time developing [open source data modules](/products) in private beta.
+If you'd like to test them, please [reach out](/contact)!
 
-Eventually, we want to introduce a priced tier on top of open-source functionality.
+Eventually, there will be a priced tier on top of open-source functionality.
 
-Also, we consult biotech companies on building their data & compute platforms.
+Also, we offer a data & analysis platform solution to biotech companies.
 If you’re interested in becoming a beta customer, please [reach out](/contact)!
 
 ## Team
