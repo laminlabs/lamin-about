@@ -2,7 +2,7 @@
 
 ## Why
 
-We work on solving these [problems](https://lamin.ai/docs/db/notes/problems) of data-heavy R&D.[^workspace]
+We work on solving these [problems](/problems) of data-heavy R&D, with a focus on the dry lab.[^workspace]
 
 We think this will enable biology more generally -- also for wet labs.[^vision]
 
@@ -21,4 +21,16 @@ We build the tools we wish we had.
 
 ## History
 
-We started to write code for Lamin Labs in April 2022.
+- 2022-09: Launch public beta.
+- 2022-07: Incorporate Lamin Labs Inc. in Delaware and a subsidiary in Germany: Lamin Labs GmbH.
+- 2022-05: Acceptance into YC.
+- 2022-05: Launch website and private beta for collaborators and beta customers.
+- 2022-04: Start to write code for Lamin.
+
+
+```{toctree}
+:hidden: true
+:maxdepth: 1
+
+../problems
+```
