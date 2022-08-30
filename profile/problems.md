@@ -1,5 +1,7 @@
 # Common problems of data-heavy R&D
 
+![](https://lamin-site-assets.s3.amazonaws.com/s2B8MCb8xraVXUFOT682L-1.svg)
+
 ## Fundamental scientific problems
 
 <!-- prettier-ignore -->
