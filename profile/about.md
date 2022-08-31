@@ -2,18 +2,13 @@
 
 ## Why
 
-We work on solving these [problems](/problems) of data-heavy R&D, with a focus on the dry lab.[^workspace]
+We work on solving [key problems](/problems) of data-heavy R&D.
+In recent years, they have become so severe that they block scientific progress.
 
-We think this will enable biology more generally -- also for wet labs.[^vision]
-
-<!-- prettier-ignore -->
-[^workspace]: There are numerous data & analytics platforms for the wet lab.
-    We focus on building a workspace for the dry lab.
-[^vision]: Towards learning platforms for R&D that are integrated across wet ⇄ dry lab & human ⇄ artificial intelligence... 😅
+Our vision is to enable learning platforms for R&D that are integrated across wet & dry lab and human & artificial intelligence.
+And, if desired, allow collaborating on data across otherwise siloed organizations.
 
 ## Team
-
-We build the tools we wish we had.
 
 ```{include} about/team.md
 :start-line: 1
@@ -22,10 +17,11 @@ We build the tools we wish we had.
 ## History
 
 - 2022-09: Launch public beta.
-- 2022-07: Incorporate Lamin Labs Inc. in Delaware and a subsidiary in Germany: Lamin Labs GmbH.
+- 2022-08: Launch enterprise pilots.
+- 2022-07: Incorporate Lamin Labs, Inc. and Lamin Labs GmbH (German subsidiary).
 - 2022-05: Acceptance into YC.
 - 2022-05: Launch website and private beta for collaborators and beta customers.
-- 2022-04: Start to write code for Lamin.
+- 2022-04: Start writing code.
 
 
 ```{toctree}
