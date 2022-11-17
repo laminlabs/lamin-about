@@ -1,6 +1,6 @@
 # Team
 
-Founders: We build the tools we wish we had.
+Our founders build the tools they wish they had. 😅
 
 - [Alex Wolf](https://falexwolf.me): Scientific computing & software since 2009. Created Scanpy & led build-up of a compute platform for drug discovery.
 - [Sunny Sun](https://github.com/sunnyosun): Biology across the dry and wet lab since 2012. Focus on genome engineering & cell biology in health & disease.
