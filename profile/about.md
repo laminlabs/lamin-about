@@ -8,7 +8,7 @@ We build [data infrastructure for biology](/docs), enabling data scientists and 
 
 We aim to do what git and GitHub did for code for R&D data.
 
-To us, this means: Learning platforms that integrate wet & dry lab, humans & AI and siloed teams & organizations.
+To us, this means learning platforms that integrate wet & dry labs, humans & AI, knowledge & data, and siloed teams & organizations.
 
 ## Team
 
