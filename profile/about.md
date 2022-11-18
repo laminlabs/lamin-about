@@ -18,7 +18,7 @@ To us, this means learning platforms that integrate wet & dry labs, humans & AI,
 
 ## History
 
-- 2022-09: Launch public beta.
+- 2022-09: Enter public beta.
 - 2022-08: Launch enterprise pilots.
 - 2022-07: Incorporate Lamin Labs, Inc. and Lamin Labs GmbH (German subsidiary).
 - 2022-05: Acceptance into YC.
