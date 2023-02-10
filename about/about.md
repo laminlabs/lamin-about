@@ -18,16 +18,6 @@ We aim to do what git and GitHub did for code for R&D data and help integrate we
 
 Lamin is still pre-product and pre-company launch.
 
-We are working with our design partners on improving LaminDB.
-
-- 2022-11: Sign first paying customer.
-- 2022-09: Raise seed financing round. Enter public beta.
-- 2022-08: Launch enterprise pilots with design partners.
-- 2022-07: Incorporate Lamin Labs, Inc. and Lamin Labs GmbH (German subsidiary).
-- 2022-05: Acceptance into YC.
-- 2022-05: Launch website and private beta for collaborators.
-- 2022-04: Start writing code.
-
 ```{toctree}
 :hidden: true
 :maxdepth: 1
