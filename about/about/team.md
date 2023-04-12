@@ -12,4 +12,8 @@ Engineers:
 - [Lukas Heumos](https://lukasheumos.com): Scientist, scverse steering council member and passionate open-source contributor.
 - [Sergei Rybakov](https://github.com/koncopd): Core contributions to Scanpy and explainable autoencoders.
 
+Advisor:
+
+- [Lawrence Lee](https://www.linkedin.com/in/lawrence-lee/): Lawrence loves solving problems at the intersection of biology, software, and automation. Most recently he was CTO at Shiru where he managed a cross-functional team leveraging AI/ML to discover functional plant protein ingredients.
+
 If you're interested in joining or collaborating, please [reach out](/contact)!
