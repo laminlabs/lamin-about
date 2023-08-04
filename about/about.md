@@ -17,11 +17,3 @@ We aim to do what git and GitHub did for code for R&D data and help integrate we
 ## History
 
 Lamin is still pre-product and pre-company launch.
-
-```{toctree}
-:hidden: true
-:maxdepth: 1
-
-../problems
-../docs
-```
