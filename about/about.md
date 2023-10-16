@@ -12,10 +12,10 @@ orphan: true
 
 ## Our investors
 
-<img src="../assets/dimension.png" alt="Dimension" width="50" />
-<img src="../assets/yc.png" alt="YC" width="50" />
-<img src="../assets/pillar.png" alt="Pillar" width="50" />
-<img src="../assets/pioneer-fund.png" alt="Pioneer fund" width="50" />
+<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/dimension.png?raw=true" alt="Dimension" width="50px" />
+<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/yc.png?raw=true" alt="YC" width="50px" />
+<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pillar.png?raw=true" alt="Pillar" width="50px" />
+<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pioneer-fund.png?raw=true" alt="Pioneer fund" width="50px" />
 
 <BR>
 Angel investors: Aaron Kimball, Jeff Hammerbacher, Oskari Saarenmaa, Alec Nielsen
