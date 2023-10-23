@@ -10,15 +10,11 @@ orphan: true
 :start-line: 1
 ```
 
-## Advisors
-
-- [Lawrence Lee](https://www.linkedin.com/in/lawrence-lee/) The intersection of biology, software, and automation. Ex-CTO at Shiru, now at GeneDx.
-
 ## Investors
 
 Venture capital:
 
-<img src="https://github.com/laminlabs/lamin-about/blob/larger/assets/dimension.jpg?raw=true" alt="Dimension" width="50px" />
+<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/dimension.jpg?raw=true" alt="Dimension" width="300px" />
 &nbsp;
 <img src="https://github.com/laminlabs/lamin-about/blob/main/assets/yc.png?raw=true" alt="YC" width="50px" />
 &nbsp;
