@@ -14,7 +14,7 @@ orphan: true
 
 Venture capital:
 
-<a href="https://www.dimensioncap.com/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/dimension.jpg?raw=true" alt="Dimension" width="300px" /></a>
+<a href="https://www.dimensioncap.com/"><img src="https://github.com/laminlabs/lamin-about/blob/grey/assets/dimension.png?raw=true" alt="Dimension" width="300px" /></a>
 &nbsp;
 <a href="https://www.ycombinator.com/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/yc.png?raw=true" alt="YC" width="50px" /></a>
 &nbsp;
