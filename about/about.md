@@ -10,21 +10,17 @@ orphan: true
 :start-line: 1
 ```
 
-## Advisors
-
-- [Lawrence Lee](https://www.linkedin.com/in/lawrence-lee/) The intersection of biology, software, and automation. Ex-CTO at Shiru, now at GeneDx.
-
 ## Investors
 
 Venture capital:
 
-<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/dimension.png?raw=true" alt="Dimension" width="50px" />
+<a href="https://www.dimensioncap.com/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/dimension.jpg?raw=true" alt="Dimension" width="300px" /></a>
 &nbsp;
-<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/yc.png?raw=true" alt="YC" width="50px" />
+<a href="https://www.ycombinator.com/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/yc.png?raw=true" alt="YC" width="50px" /></a>
 &nbsp;
-<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pillar.png?raw=true" alt="Pillar" width="50px" />
+<a href="https://www.pillar.vc/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pillar.png?raw=true" alt="Pillar" width="50px" /></a>
 &nbsp;
-<img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pioneer-fund.png?raw=true" alt="Pioneer fund" width="50px" />
+<a href="https://www.pioneerfund.vc/"><img src="https://github.com/laminlabs/lamin-about/blob/main/assets/pioneer-fund.png?raw=true" alt="Pioneer fund" width="50px" /></a>
 <br><br>
 
 Angel investors:
