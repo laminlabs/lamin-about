@@ -1,3 +1,5 @@
 # Lamin About
 
-Content at https://lamin.ai/about.
+See https://lamin.ai/about.
+
+This repo previously held source code for rendering the page. Currently, it merely serves a few assets.
